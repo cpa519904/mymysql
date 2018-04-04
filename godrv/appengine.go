@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	"appengine/cloudsql"
+	"google.golang.org/appengine/cloudsql"
 )
 
 func init() {
